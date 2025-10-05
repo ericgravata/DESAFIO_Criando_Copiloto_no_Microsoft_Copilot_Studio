@@ -5,5 +5,4 @@
 - Após isso, criamos um novo agente, criamos tópicos personalizados, personalizamos o tópico com configurações de fontes de dados,
 - Fizemos a personalização da conversa para agir de tal modo quando alguma solicitação por parte do usuário não for entendível ou compreensível o suficiente.
 - Ao final, foram feitos testes básicos no painel de conversação, algumas situações no meu agente não corresponderam com as expectativas esperadas,
-- talvez por que esteja utilizando alguma versão mais atualizada da data da gravação da videoaula e em português (data presente deste resumo: 05/10/2025)
-- 
+- talvez por que esteja utilizando alguma versão mais atualizada da data da gravação da videoaula e em português (data presente deste resumo: 05/10/2025).
